@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    line-height: 24px;
+    margin: 0;
+}
+
+canvas {
+    margin: 10%;
+    margin-top: 2%;
+    border: 1.5px solid black;
+    width: 1000px;
+    height: 600px;
+}
+
